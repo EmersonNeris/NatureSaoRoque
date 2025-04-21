@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/b2fdf029-3b8d-4515-bb54-66366f3b7b68)
 Vivemos na natureza. Com a natureza. Através da natureza.
 A natureza não pede reconhecimento. Ela está dentro de nós.
 Ar, água, fogo e terra são nossa essência.
@@ -14,7 +15,9 @@ Simplesmente recrie esse contato.
 Feche os olhos, abra o coração.
 Ouça a grama crescer, contemple uma árvore, pressinta a tempestade.
 Sinta as raízes que nutrem e conectam você à verdadeira beleza.
+![image](https://github.com/user-attachments/assets/1153a8c2-3ca9-48f1-9f98-2b70b5349b32)
+
 ![IMG-20250420-WA0021](https://github.com/user-attachments/assets/b96795d9-87c1-4d17-97f4-f80103b245a0)
 São 72 lotes exclusivos, a partir de 360 m², aproveite nossas condições diferenciadas de lançamento. 
-Entre em contato com nosso Consultor Emerson Neris
+Entre em contato com nosso Consultor Emerson Neris(11)996290719
 https://wa.me/qr/G6I7DOTPCL3RJ1 
