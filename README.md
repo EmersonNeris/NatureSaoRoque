@@ -15,22 +15,6 @@ Feche os olhos, abra o coração.
 Ouça a grama crescer, contemple uma árvore, pressinta a tempestade.
 Sinta as raízes que nutrem e conectam você à verdadeira beleza.
 ![IMG-20250420-WA0021](https://github.com/user-attachments/assets/b96795d9-87c1-4d17-97f4-f80103b245a0)
-“Tocar a paisagem com cautela e reverenciar a singularidade da Mata Atlântica
-de São Roque, que compõe a Reserva da Biosfera do Cinturão Verde de São
-Paulo, é projetar um futuro próspero e abundante. Para preservar o local que
-acolhe o Nature São Roque, resgatamos a biodiversidade nativa apagada
-ao longo da história.
-Atividades ao ar livre foram planejadas sobre decks suspensos visando
-o menor impacto possível. A água encontra seu caminho no solo protegido pela
-serrapilheira, nutrindo árvores e retornando ao córrego que permeia o relevo com
-seus meandros originais. Árvores e palmeiras nativas, como tucaneiros, juçaras
-
-e jerivás, promoverão a integração entre homem e natureza, oferecendo bem-
-estar aos admiradores, enquanto abrigam e alimentam aves e outros animais.
-
-Uma trilha natural percorre a mata, que nos inspirou com suas marantas,
-caninhas-do-brejo e samambaias, e será enriquecida com helicônias e bromélias,
-espécies de beleza incomparável e de grande importância para a fauna local.
-Esperamos que o Nature seja um exemplo para outros empreendimentos e que
-os pequenos fragmentos remanescentes da mata possam, enfim, se reconectar,
-criando verdadeiros corredores ecológicos em harmonia com a nossa presença.”
+São 72 lotes exclusivos, a partir de 360 m², aproveite nossas condições diferenciadas de lançamento. 
+Entre em contato com nosso Consultor Emerson Neris
+https://wa.me/qr/G6I7DOTPCL3RJ1 
