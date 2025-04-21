@@ -3,7 +3,10 @@
 ![image](https://github.com/user-attachments/assets/ae66cf49-0782-4eb9-ac73-61fc76aa159d)
 ![image](https://github.com/user-attachments/assets/d4181d2c-278e-4958-8476-297891d1c601)
 ![image](https://github.com/user-attachments/assets/5669427a-f6a3-4c0d-ad51-a8566ae56f2b)
+
+
 Diferenciais
+
 
 Refúgio para quem ama a natureza
 Aqui o verde se torna a principal atração. Com amplas áreas de preservação ambiental, trilhas para
@@ -56,4 +59,5 @@ Sinta as raízes que nutrem e conectam você à verdadeira beleza.
 ![IMG-20250420-WA0021](https://github.com/user-attachments/assets/b96795d9-87c1-4d17-97f4-f80103b245a0)
 
 São 72 lotes exclusivos, a partir de 360 m², aproveite nossas condições diferenciadas de lançamento. 
+
 Entre em contato com nosso Consultor Emerson Neris(11)996290719 - https://wa.me/qr/G6I7DOTPCL3RJ1 
