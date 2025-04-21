@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nature São Roque</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Montserrat', sans-serif;
+    }
+    body {
+      background-color: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: url('banner.jpg') no-repeat center center / cover;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+      padding: 0 20px;
+    }
+    header h1 {
+      font-size: 3em;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      border-radius: 10px;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    .highlight {
+      font-weight: 700;
+      color: #1b5e20;
+    }
+    .cta {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .cta a {
+      background: #25D366;
+      color: white;
+      padding: 15px 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+    video {
+      width: 100%;
+      max-width: 800px;
+      height: auto;
+      display: block;
+      margin: 40px auto;
+    }
+    footer {
+      background: #1b5e20;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .gallery img {
+      width: 300px;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nature São Roque - Seu Refúgio na Natureza</h1>
+  </header>
+
+  <section>
+    <h2 class="highlight">🏞️ Terrenos exclusivos a partir de 360 m²</h2>
+    <p>Viva cercado por áreas verdes, com infraestrutura moderna e completa: fiação subterrânea, trilhas ecológicas, praças de convivência, horta, playground e muito mais.</p>
+    <div class="gallery">
+      <img src="foto1.jpg" alt="Vista aérea do empreendimento">
+      <img src="foto2.jpg" alt="Praça de convivência">
+      <img src="foto3.jpg" alt="Trilha natural">
+    </div>
+  </section>
+
+  <section>
+    <h2 class="highlight">📍 Localização</h2>
+    <p>Estrada da Serrinha, 2.520 - Cambará, São Roque. A apenas 60 km de São Paulo e próximo à famosa Rota do Vinho.</p>
+  </section>
+
+  <section class="cta">
+    <h2 class="highlight">📞 Fale com a gente agora mesmo!</h2>
+    <a href="https://wa.me/5511996290719" target="_blank">Clique aqui para falar no WhatsApp</a>
+  </section>
+
+  <section>
+    <h2 class="highlight">🎥 Apresentação do empreendimento</h2>
+    <video controls>
+      <source src="nature_meeting_final_nova_trilha_10-04.mp4" type="video/mp4">
+      Seu navegador não suporta a exibição de vídeo.
+    </video>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Nature São Roque. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
